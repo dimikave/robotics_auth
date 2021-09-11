@@ -5,10 +5,12 @@ This is a repo for my robotics projects. For now it contains the project done du
 ## Omnidirectional Mobile Manipulator
 As a semester project, the simulation of a omnidirectional mobile platform with a 6-DOF manipulator in a pick and place task was implemented. The simulation runs in MATLAB 3D environment and is is presented in the following GIFs:
 
-Implementation of trajectory planning in the Cartesian Space with via points (implemented as 1 distinct trajectory planning per couple of via points)
+Implementation of trajectory planning in the Cartesian Space with via points (implemented as 1 distinct trajectory planning per couple of via points):
 ![Alt Text](https://github.com/dimikave/Robotics/blob/main/Omnidirectional-Mobile-Manipulator/PickAndPlace2.gif)
 
-Implementation of trajectory planning in the Joint Space with via points (implemented as 1 continuous trajectory)
+
+
+Implementation of trajectory planning in the Joint Space with via points (implemented as 1 continuous trajectory):
 ![Alt Text](https://github.com/dimikave/Robotics/blob/main/Omnidirectional-Mobile-Manipulator/PickAndPlace.gif)
 
 
