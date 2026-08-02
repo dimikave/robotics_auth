@@ -15,4 +15,4 @@ Implementation of trajectory planning in the Joint Space with via points (implem
 
 
 ## Status
-This is a repo that I aspire to maintain and update frequently.
+This is a repo that I don't update anymore.
